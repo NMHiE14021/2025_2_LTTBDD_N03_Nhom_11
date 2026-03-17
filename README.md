@@ -14,7 +14,6 @@ Dự án được xây dựng với mục tiêu hỗ trợ người học tiến
 - theo dõi quá trình học tập
 - cá nhân hóa trải nghiệm sử dụng qua phần Cài đặt
 
-Theo báo cáo, ứng dụng được phát triển trên nền tảng **Flutter/Dart**, sử dụng cấu trúc mã nguồn theo từng nhóm chức năng, kết hợp với dữ liệu mẫu để minh họa rõ cách hệ thống hoạt động trước khi tích hợp lưu trữ và xử lý nâng cao ở các giai đoạn tiếp theo. :contentReference[oaicite:2]{index=2}
 
 ---
 
@@ -55,7 +54,6 @@ Theo báo cáo, ứng dụng được phát triển trên nền tảng **Flutter
 - Chỉnh sửa thông tin cá nhân
 - Tùy chỉnh một số thiết lập học tập cơ bản
 
-Các nhóm chức năng trên được mô tả xuyên suốt trong báo cáo, từ yêu cầu bài toán, quy trình nghiệp vụ, use case cho đến đặc tả chức năng chi tiết ở Chương 3. :contentReference[oaicite:3]{index=3}
 
 ---
 
@@ -70,7 +68,7 @@ Các nhóm chức năng trên được mô tả xuyên suốt trong báo cáo, t
 - **Feature-based Folder Structure**
 - **Reusable Widgets**
 
-Theo tài liệu, dự án hiện ưu tiên trình diễn UI, luồng chức năng và tổ chức mã nguồn rõ ràng; dữ liệu học tập, bài nghe, bài shadowing và hồ sơ người dùng đang được mô phỏng bằng dữ liệu mẫu trong ứng dụng. :contentReference[oaicite:4]{index=4}
+
 
 ---
 
@@ -82,7 +80,7 @@ Theo tài liệu, dự án hiện ưu tiên trình diễn UI, luồng chức nă
 - **State**: quản lý trạng thái, điều phối xử lý và cập nhật giao diện
 - **Storage**: lưu trữ dữ liệu cục bộ hoặc dữ liệu mô phỏng
 
-Cách tổ chức này giúp tách biệt phần giao diện, phần xử lý logic và phần dữ liệu, từ đó thuận lợi cho phát triển, bảo trì và mở rộng trong tương lai. :contentReference[oaicite:5]{index=5}
+
 
 ---
 
