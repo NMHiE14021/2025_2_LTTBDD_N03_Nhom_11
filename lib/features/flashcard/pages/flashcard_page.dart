@@ -101,7 +101,6 @@ class _FlashcardPageState extends State<FlashcardPage> {
       ),
     );
   }
-
   Widget _statItem(String label, String value) {
     return Column(
       children: [
