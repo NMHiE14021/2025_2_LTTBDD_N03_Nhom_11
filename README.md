@@ -1,6 +1,9 @@
+Nhốm 11-Ngô Minh Hiếu-23010656 
+
+
 # English Learning App with Flashcard
 
-Ứng dụng học tiếng Anh trên thiết bị di động được phát triển bằng **Flutter**, hỗ trợ học từ vựng bằng **Flashcard**, luyện nghe **Dictation**, luyện nói **Shadowing**, theo dõi tiến độ học tập và tùy chỉnh thông tin/cài đặt người dùng. Ở phiên bản hiện tại, ứng dụng tập trung vào **giao diện**, **trải nghiệm người dùng** và **mô phỏng luồng chức năng** bằng dữ liệu mẫu và state cục bộ. :contentReference[oaicite:1]{index=1}
+Ứng dụng học tiếng Anh trên thiết bị di động được phát triển bằng **Flutter**, hỗ trợ học từ vựng bằng **Flashcard**, luyện nghe **Dictation**, luyện nói **Shadowing**, theo dõi tiến độ học tập và tùy chỉnh thông tin/cài đặt người dùng. Ở phiên bản hiện tại, ứng dụng tập trung vào **giao diện**, **trải nghiệm người dùng** và **mô phỏng luồng chức năng** bằng dữ liệu mẫu và state cục bộ. 
 
 ---
 
